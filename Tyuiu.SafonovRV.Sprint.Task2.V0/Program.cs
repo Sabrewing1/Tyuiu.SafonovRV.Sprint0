@@ -13,7 +13,7 @@ namespace Tyuiu.SafonovRV.Sprint.Task2.V0
         {
             //Вызов класса DataService и метода GetMassage
             //из библиотеки Tyuiu.SafonovRV.Sprint0.Task2.V0.Lib
-            Console.WriteLine(DataService.GetMassage("Руслан."));
+            Console.WriteLine(DataService.GetMassage("Руслан"));
             Console.ReadKey();
             Console.ReadKey();
         }
